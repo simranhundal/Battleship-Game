@@ -1,0 +1,15 @@
+Simran Hundal
+1 making php databases and relevant server side functions
+2 making display of torpedoes and other player to player javascript functions
+
+
+Dingcheng Zhang
+1 making ship class and custom canvas to display ships and place them
+2 making html and css styles for all pages
+3 making the game timer
+5.login and register
+6.Turn function and diplay it.
+
+
+Simran and Dingcheng worked collaboratively every weekend starting around
+thanksgiving break with most of the work done the week of 12/7 - 12/13
